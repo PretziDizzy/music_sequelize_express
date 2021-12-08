@@ -1,1 +1,1 @@
-# music_sequelize_express
+# sequelize_music
